@@ -6,6 +6,8 @@ Analysis of Netflix viewer's data using SQL and Power BI
 
 This project is a Netflix dashboard build using SQL and Power BI with Netflix content, Netflix user activity and various pattern associated with it. Some of them include; genre popularity barn favorite shows and shows that are as relevant to a country as it can get. Data arranging and presentation of the way the exact data formatting is done by SQL script and the incorporation of display.
 
+![Netflix 3](https://github.com/user-attachments/assets/399e43ca-1705-4b89-8a1e-27ef788246bf)
+
 *Project Synopsis (Points):*
 
 1. Here are the details of OTT boost of Netflix in 2021;
@@ -15,6 +17,8 @@ This project is a Netflix dashboard build using SQL and Power BI with Netflix co
 5. Thus, the overall strategy of the market’s participants should expand the number of offered streams and improve the quality of the offered streams.
 6. Devise to explore more into the dynamics of synchronized theatre and OTT releases.
 7. Engage: This sustain peoples interaction with the site activity.
+
+![Netflix2](https://github.com/user-attachments/assets/3f080a18-cde6-471e-86c6-1df9fde83077)
 
 *Netflix Business Strategy (Post-Lockdown)*
 
